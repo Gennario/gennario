@@ -20,3 +20,13 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gennario&show_icons=true&hide_border=false&count_private=true&theme=apprentice" />
 </div>
+
+
+<h2 align="center">Contacts</h2>
+
+
+<p align="center">
+  <a href="https://dsc.gg/Gennario/">
+    <img alt="Discord" width="40px" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-256.png" />
+  </a>
+</p>
