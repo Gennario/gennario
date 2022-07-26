@@ -29,4 +29,8 @@ Here are some ideas to get you started:
   <a href="https://dsc.gg/Gennario/">
     <img alt="Discord" width="40px" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-256.png" />
   </a>
+      
+  <a href="[https://dsc.gg/Gennario/](https://www.instagram.com/gennariogfx/)">
+    <img alt="Instagram" width="40px" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-256.png" />
+  </a>
 </p>
