@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gennario&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+</div>
+
+
 <!--
 **Gennario/gennario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
