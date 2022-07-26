@@ -27,10 +27,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://dsc.gg/Gennario/">
-    <img alt="Discord" width="40px" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-256.png" />
+    <img alt="Discord" width="40px" src="https://cdn.iconfinder.com/stored_data/515552/128/png?token=1658852373-lg%2Byrl5wnd8q%2Bc4OI2j276c7WPCsq5DE3C5MhKpHHhI%3D" />
   </a>
-      
-  <a href="[https://dsc.gg/Gennario/](https://www.instagram.com/gennariogfx/)">
-    <img alt="Instagram" width="40px" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-256.png" />
+  <a href="https://www.instagram.com/gennariogfx/">
+    <img alt="Instagram" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png" />
   </a>
 </p>
